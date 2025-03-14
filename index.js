@@ -1,1 +1,2 @@
-console.log("Git repo")
+console.log("Git repo");
+console.log("Next line")
